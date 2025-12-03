@@ -122,7 +122,7 @@
                           Today, Theravada Buddhism is widely practiced in Sri Lanka, Myanmar, Thailand, Laos, and Cambodia, and continues to influence global meditation traditions through its clarity, simplicity, and focus on mindfulness....
                         </p>
                         </p>
-                        <a href="Theravada.php" class="btn btn-primary">Read More</a>
+                        <a href="theravada.php" class="btn btn-primary">Read More</a>
                       </div>
                     </div>
                   </div>

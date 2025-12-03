@@ -31,7 +31,7 @@
                           <a href="photo.php">Photo Gallery</a>
                         </li>
                         <li id="menu-item-25689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25689">
-                          <a href="Video.php">Video Gallery</a>
+                          <a href="video.php">Video Gallery</a>
                         </li>
                       </ul>
                     </li>
