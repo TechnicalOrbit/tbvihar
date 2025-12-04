@@ -940,50 +940,54 @@
   <div id="content" class="site-content">
     <div data-elementor-type="wp-page" data-elementor-id="4186" class="elementor elementor-4186" data-elementor-post-type="page">
       <div class="elementor-element elementor-element-524b41f e-flex e-con-boxed e-con e-parent" data-id="524b41f" data-element_type="container">
-        <div class="e-con-inner ">
+        <div class="e-con-inner">
+          <div class="elementor-element elementor-element-ae19622 e-con-full e-flex e-con e-child" data-id="ae19622" data-element_type="container">
+            <div class="elementor-element elementor-element-c2f153b elementor-widget elementor-widget-gallery" data-id="c2f153b" data-element_type="widget" data-settings="{&quot;gallery_layout&quot;:&quot;masonry&quot;,&quot;columns&quot;:3,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;image_hover_animation&quot;:&quot;grow&quot;,&quot;columns_tablet&quot;:3,&quot;lazyload&quot;:&quot;yes&quot;,&quot;columns_mobile&quot;:1,&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
 
-          <div class="container text-black my-4">
-            <div class=" row gap-2">
-
-              <div class="card col" style="width: 18rem;">
-                <img src="./assets/img/Ashoka.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Story of King Ashoka</h5>
-                  <p class="card-text">More than 2,300 years ago, India was ruled by a powerful and ambitious prince named Ashoka, the grandson of Chandragupta Maurya. Ashoka was brave, clever, and fierce. From a young age, he wanted to become the strongest emperor the world had ever seen.
-                    When he finally became king in 268 BCE, he decided to expand his empire across all of India. His armies marched from region to region, defeating many kingdoms. But there was one land that changed his life forever — Kalinga...</p>
-                  <a href="ashoka.php" class="btn btn-primary">Read More</a>
-                </div>
-              </div>
-
-              <div class="card col" style="width: 18rem;">
-                <img src="./assets/img/bimbisara.jpg" class="card-img-top" alt="Bimbisara">
-                <div class="card-body">
-                  <h5 class="card-title">The Story of King Bimbisara</h5>
-                  <p class="card-text">More than 2,500 years ago, in the ancient kingdom of Magadha, ruled a wise and powerful king named Bimbisara. He was admired for his intelligence, justice, and peaceful rule. But despite having wealth, fame, and power, there was still a question in his heart...</p>
-                  <a href="bhimbisara.php" class="btn btn-primary">Read More</a>
-                </div>
-              </div>
-              <div class="card col" style="width: 18rem;">
-                <img src="./assets/img/Ajatashatru.jpg" class="card-img-top" alt="Bimbisara">
-                <div class="card-body">
-                  <h5 class="card-title">The Story of King Ajatashatru and Buddhism </h5>
-                  <p class="card-text">Long ago in ancient India, there ruled a powerful king named Ajatashatru. But his story didn't start with wisdom—it started with conflict, guilt, and regret.
-                    A Painful Beginning
-                    Ajatashatru was the son of King Bimbisara, a devoted follower of Gautam Buddha.
-                    Under the influence of an ambitious monk named Devadatta, Ajatashatru was misled. Devadatta told him:
-                    “You should take the throne now. Your father stands in your way.”
-                    Blinded by desire for power, Ajatashatru imprisoned his own father and eventually caused his death.
-                    After becoming king, he expected happiness—but instead, he was filled with fear, nightmares, and deep guilt....</p>
-                  <a href="ajatashatru.php" class="btn btn-primary">Read More</a>
+              <div class="container text-black my-4 ">
+                <div class=" row gap-5 ">
+                  <div class=" col-md-3">
+                    <div class="card " style="width:100%;">
+                      <img src="./assets/img/Ashoka.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Story of King Ashoka</h5>
+                        <p class="card-text">More than 2,300 years ago, India was ruled by a powerful and ambitious prince named Ashoka, the grandson of Chandragupta Maurya. Ashoka was brave, clever, and fierce. From a young age, he wanted to become the strongest emperor the world had ever seen.
+                          When he finally became king in 268 BCE, he decided to expand his empire across all of India. His armies marched from region to region, defeating many kingdoms. But there was one land that changed his life forever — Kalinga...</p>
+                        <a href="ashoka.php" class="btn btn-primary">Read More</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class=" col-md-3">
+                    <div class="card " style="width:100%;">
+                      <img src="./assets/img/bimbisara.jpg" class="card-img-top" alt="Bimbisara">
+                      <div class="card-body">
+                        <h5 class="card-title">The Story of King Bimbisara</h5>
+                        <p class="card-text">More than 2,500 years ago, in the ancient kingdom of Magadha, ruled a wise and powerful king named Bimbisara. He was admired for his intelligence, justice, and peaceful rule. But despite having wealth, fame, and power, there was still a question in his heart...</p>
+                        <a href="bhimbisara.php" class="btn btn-primary">Read More</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3">
+                    <div class="card" style="width:100%;">
+                      <img src="./assets/img/Ajatashatru.jpg" class="card-img-top" alt="Bimbisara">
+                      <div class="card-body">
+                        <h5 class="card-title">The Story of King Ajatashatru and Buddhism </h5>
+                        <p class="card-text">Long ago in ancient India, there ruled a powerful king named Ajatashatru. But his story didn't start with wisdom—it started with conflict, guilt, and regret.
+                          A Painful Beginning
+                          Ajatashatru was the son of King Bimbisara, a devoted follower of Gautam Buddha.
+                          Under the influence of an ambitious monk named Devadatta, Ajatashatru was misled. Devadatta told him:
+                          “You should take the throne now. Your father stands in your way.”
+                          Blinded by desire for power, Ajatashatru imprisoned his own father and eventually caused his death.
+                          After becoming king, he expected happiness—but instead, he was filled with fear, nightmares, and deep guilt....</p>
+                        <a href="ajatashatru.php" class="btn btn-primary">Read More</a>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
-
-
         </div>
-
-
       </div>
     </div>
   </div>

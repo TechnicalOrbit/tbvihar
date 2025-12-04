@@ -102,7 +102,7 @@
               <div class="container">
                 <h2 style="font-weight: 700;">There are type of branches</h2>
                 <div class=" row my-3">
-                  <div class="col-6">
+                  <div class="col-md-6  mb-3">
                     <div class="card" style="width: 100%;">
                       <div class="card-body">
                         <h3 class="card-title fw-bold">Theravada Buddhism</h3>
@@ -126,7 +126,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col-6">
+                  <div class="col-md-6 mb-2">
                     <div class="card" style="width: 100%;">
                       <div class="card-body">
                         <h3 class="card-title fw-bold">Mahayana Buddhism</h3>

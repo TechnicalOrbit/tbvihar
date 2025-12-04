@@ -36,7 +36,7 @@
                       </ul>
                     </li>
                     <li id="menu-item-6139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6139">
-                      <a href="about.php">Donation & support</a>
+                      <a href="donation.php">Donation & support</a>
                     </li>
                     <li id="menu-item-6147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6147">
                       <a href="#">Buddha's Dhamma</a>

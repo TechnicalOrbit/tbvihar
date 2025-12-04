@@ -940,57 +940,59 @@
     <div data-elementor-type="wp-page" data-elementor-id="4186" class="elementor elementor-4186" data-elementor-post-type="page">
       <div class="elementor-element elementor-element-524b41f e-flex e-con-boxed e-con e-parent" data-id="524b41f" data-element_type="container">
         <div class="e-con-inner">
+          <div class="container my-3 mx-2 ">
+            <div class="text-black fs-4 ">
+              <img src="./assets/img/Buddhababy.png" alt="" style="border-radius:70%; width:6%; ">
+              <div style="text-align: justify; margin-right:5px;">
+                The Life Story of Buddha
+                More than 2,500 years ago, in the ancient Shakya kingdom, there was a city named Kapilvastu (present-day Nepal/India border). On a peaceful spring day in 563 BCE, Queen Maya Devi gave birth to a son in the beautiful garden of Lumbini. The child was named Siddhartha Gautama. It is said that as soon as he was born, wise sages predicted that this child would one day become either a great Chakravarti king or a spiritual leader who would guide humanity to liberation.
 
+                Unfortunately, only 7 days after his birth, Queen Maya Devi passed away, and Siddhartha was lovingly raised by her sister, Mahaprajapati Gautami. The young prince grew up surrounded by comfort and luxury inside the palace of Kapilvastu, protected from the realities of the outside world. His father, King Śuddhodana, wanted Siddhartha to become a powerful ruler, not a wandering monk — so he ensured that Siddhartha never witnessed sorrow or suffering.
 
-          <p class="text-black fs-4 my-2 p-2 ">
-            <img src="./assets/img/Buddhababy.png" alt="" style="border-radius:70%; width:6%; ">
-            The Life Story of Buddha
-            More than 2,500 years ago, in the ancient Shakya kingdom, there was a city named Kapilvastu (present-day Nepal/India border). On a peaceful spring day in 563 BCE, Queen Maya Devi gave birth to a son in the beautiful garden of Lumbini. The child was named Siddhartha Gautama. It is said that as soon as he was born, wise sages predicted that this child would one day become either a great Chakravarti king or a spiritual leader who would guide humanity to liberation.
+                Years passed. At the age of 16, Siddhartha married the graceful Princess Yasodhara, and together they lived in magnificent palaces built for each season. For Siddhartha, life appeared perfect — yet deep inside, a quiet curiosity about the outside world grew.
 
-            Unfortunately, only 7 days after his birth, Queen Maya Devi passed away, and Siddhartha was lovingly raised by her sister, Mahaprajapati Gautami. The young prince grew up surrounded by comfort and luxury inside the palace of Kapilvastu, protected from the realities of the outside world. His father, King Śuddhodana, wanted Siddhartha to become a powerful ruler, not a wandering monk — so he ensured that Siddhartha never witnessed sorrow or suffering.
+                One day, when Siddhartha was 29 years old, he finally traveled beyond the palace walls. There, in the streets of Kapilvastu, he encountered the Four Sights that forever changed his destiny:
 
-            Years passed. At the age of 16, Siddhartha married the graceful Princess Yasodhara, and together they lived in magnificent palaces built for each season. For Siddhartha, life appeared perfect — yet deep inside, a quiet curiosity about the outside world grew.
+                Sight What He Saw Meaning
+                1st An old man aging is inevitable
+                2nd A sick man illness is universal
+                3rd A corpse death is certain
+                4th A peaceful monk there is a path beyond suffering
 
-            One day, when Siddhartha was 29 years old, he finally traveled beyond the palace walls. There, in the streets of Kapilvastu, he encountered the Four Sights that forever changed his destiny:
+                These experiences shook Siddhartha to the core. That night, after his son Rahul was born, Siddhartha looked at his sleeping family one last time. With a heavy heart but a determined mind, he quietly left the palace on the night of Mahabhinishkramana (Great Renunciation) in 534 BCE.
 
-            Sight What He Saw Meaning
-            1st An old man aging is inevitable
-            2nd A sick man illness is universal
-            3rd A corpse death is certain
-            4th A peaceful monk there is a path beyond suffering
+                Siddhartha wandered across the plains of Northern India, learning from renowned teachers such as Alara Kalama and Udaka Ramaputta near Vaishali and Rajgriha (modern Rajgir, Bihar). He practiced severe austerities for nearly 6 years near the forests of Uruvela (present-day Bodh Gaya).
 
-            These experiences shook Siddhartha to the core. That night, after his son Rahul was born, Siddhartha looked at his sleeping family one last time. With a heavy heart but a determined mind, he quietly left the palace on the night of Mahabhinishkramana (Great Renunciation) in 534 BCE.
+                But extreme self-denial weakened him to the point of collapse. He realized that neither luxury nor self-torture could lead to truth — wisdom was found in the Middle Path.
 
-            Siddhartha wandered across the plains of Northern India, learning from renowned teachers such as Alara Kalama and Udaka Ramaputta near Vaishali and Rajgriha (modern Rajgir, Bihar). He practiced severe austerities for nearly 6 years near the forests of Uruvela (present-day Bodh Gaya).
+                With new clarity, Siddhartha sat beneath a sacred Bodhi Tree by the Neranjana (today: Falgu River). After deep meditation lasting days and nights, on the full moon day of Vesak month, around 528 BCE, Siddhartha attained Enlightenment. From that moment, he became:
+                <br>
+                🌟 The Buddha — The Enlightened One
 
-            But extreme self-denial weakened him to the point of collapse. He realized that neither luxury nor self-torture could lead to truth — wisdom was found in the Middle Path.
+                Now awakened, Buddha walked to Sarnath, near Varanasi, where he delivered his First Sermon — Dhammachakka Pavattana Sutta — setting in motion the Wheel of Dharma. Here, the Sangha (community of monks) began.<br>
 
-            With new clarity, Siddhartha sat beneath a sacred Bodhi Tree by the Neranjana (today: Falgu River). After deep meditation lasting days and nights, on the full moon day of Vesak month, around 528 BCE, Siddhartha attained Enlightenment. From that moment, he became:
-            <br>
-            🌟 The Buddha — The Enlightened One
+                For the next 45 years, Buddha traveled across cities like:
+                <br>
+                📍 Rajgir (Magadha)<br>
+                📍 Vaishali<br>
+                📍 Kosambi<br>
+                📍 Sravasti (where he spent the most monsoon seasons)<br>
+                📍 Nalanda (later a great learning center)<br>
 
-            Now awakened, Buddha walked to Sarnath, near Varanasi, where he delivered his First Sermon — Dhammachakka Pavattana Sutta — setting in motion the Wheel of Dharma. Here, the Sangha (community of monks) began.<br>
+                He taught universal compassion, meditation, ethical living, and liberation from suffering. His followers included kings like Bimbisara and Ajatashatru, monks like Sariputta, Moggallana, Ananda, and even reformed individuals like Angulimala.
 
-            For the next 45 years, Buddha traveled across cities like:
-            <br>
-            📍 Rajgir (Magadha)<br>
-            📍 Vaishali<br>
-            📍 Kosambi<br>
-            📍 Sravasti (where he spent the most monsoon seasons)<br>
-            📍 Nalanda (later a great learning center)<br>
+                At the age of 80, during his final journey to Kushinagar (Uttar Pradesh), Buddha fell ill. Lying beneath Sala trees, surrounded by his disciples, he spoke his final message:
 
-            He taught universal compassion, meditation, ethical living, and liberation from suffering. His followers included kings like Bimbisara and Ajatashatru, monks like Sariputta, Moggallana, Ananda, and even reformed individuals like Angulimala.
+                "Decay is inherent in all things. Work out your own salvation with diligence."
 
-            At the age of 80, during his final journey to Kushinagar (Uttar Pradesh), Buddha fell ill. Lying beneath Sala trees, surrounded by his disciples, he spoke his final message:
+                On the full moon night in 483 BCE, Buddha entered Mahaparinirvana, leaving behind not only teachings but a timeless path to peace and enlightenment.
+              </div>
+              <div class="d-flex justify-content-end align-items-center mb-5">
+                <img src="./assets/img/buddhaDeath.png" alt="" style="border-radius:50%; width:10%; margin-right:60px; ">
+              </div>
 
-            "Decay is inherent in all things. Work out your own salvation with diligence."
-
-            On the full moon night in 483 BCE, Buddha entered Mahaparinirvana, leaving behind not only teachings but a timeless path to peace and enlightenment.
-          <div class="d-flex justify-content-end align-items-center mb-5">
-            <img src="./assets/img/buddhaDeath.png" alt="" style="border-radius:50%; width:10%; margin-right:60px; ">
+            </div>
           </div>
-
-          </p>
         </div>
       </div>
     </div>
