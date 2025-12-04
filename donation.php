@@ -1210,18 +1210,40 @@
         <div class="card-body">
           <h5 class="card-title">Give Donation</h5>
           <p class="card-text">
-            ✨ "Giving is the greatest act of compassion."<br>
-            ✨ "Dana (charity) purifies the heart." — Buddha" <br>
-            ✨ "A small act of kindness can change many lives."<br>
-            ✨ "The gift of giving is the gift of peace."<br>
-            ✨ "Help others rise — this is true Buddhism."<br>
-            ✨ "Compassion is the path. Giving is the practice."<br>
-            ✨ "Support goodness today — create merit for tomorrow."<br>
-            ✨ "Your generosity becomes someone's hope."<br>
-            ✨ "Give not because you have much, but because you care."<br>
-            ✨ "When we share, happiness multiplies."<br>
+          <p> ✨ Giving is the greatest act of compassion.</p>
+          <p> ✨ Dana (charity) purifies the heart." — Buddha</p>
+          <p> ✨ A small act of kindness can change many lives.</p>
+          <p> ✨ The gift of giving is the gift of peace.</p>
+          <p> ✨ Help others rise — this is true Buddhism.</p>
+          <p> ✨ Compassion is the path. Giving is the practice.</p>
+          <p> ✨ Support goodness today — create merit for tomorrow.</p>
+          <p> ✨ Your generosity becomes someone's hope.</p>
+          <p> ✨ Give not because you have much, but because you care.</p>
+          <p> ✨ When we share, happiness multiplies.</p>
           </p>
-          <a href="#" class="btn btn-primary">Read More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container my-3">
+    <div class="d-flex gap-4 my-2 flex-md-row flex-column">
+      <div class="card w-md-75 w-50">
+        <img src="./assets/img/activities.jpeg" class="card-img-top" alt="...">
+      </div>
+      <div class=" card" style="width: 100%;">
+        <div class="card-body">
+          <h5 class="card-title">Give Donation</h5>
+          <p class="card-text">
+          <p> ✨Your small contribution can help spread the teachings of Lord Buddha.</p>
+          <p> ✨Your donation towards the path of Buddha is a gift of compassion and kindness.
+            Even a small contribution can bring light into someone's life</p>
+          <p> ✨ We humbly request your support to help spread the teachings and message of Lord Buddha.</p>
+          <p> ✨ Your donation will be used for religious service, education, and the upliftment of society.</p>
+          <p> ✨ Your generous financial support to spread the message of peace, compassion, and wisdom taught by Lord Buddha is highly appreciated.</p>
+          <p> ✨ The one who practices compassion gives the greatest offering — Lord Buddha.
+            Your donation is a true reflection of compassion and love.</p>
+          </p>
         </div>
       </div>
     </div>
