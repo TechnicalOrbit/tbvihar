@@ -42,10 +42,16 @@
                       <a href="#">Buddha's Dhamma</a>
                       <ul class="sub-menu">
                         <li id="menu-item-30178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30178">
+                          <a href="dhamma_prabhat.php">Dhamma Prabhat</a>
+                        </li>
+                        <li id="menu-item-30178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30178">
                           <a href="buddha_Quote.php">Buddha Quotes</a>
                         </li>
                         <li id="menu-item-25689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25689">
-                          <a href="buddha_Video.php">Videos On Buddha</a>
+                          <a href="buddha_video.php">Videos On Buddha</a>
+                        </li>
+                        <li id="menu-item-25689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25689">
+                          <a href="buddha_audio.php">Audios On Buddha</a>
                         </li>
                       </ul>
                     </li>
